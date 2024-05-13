@@ -1,0 +1,126 @@
+{
+  "question": "Is the character male?",
+  "yes": {
+    "question": "Is the character from an action game?",
+    "yes": {
+      "question": "Is the character from a shooter game?",
+      "yes": {
+        "question": "Is the character from Call of Duty?",
+        "yes": {
+          "question": "Is the character Soap MacTavish?"
+        },
+        "no": {
+          "question": "Is the character from Halo?",
+          "yes": {
+            "question": "Is the character Master Chief?"
+          },
+          "no": {
+            "question": "Is the character from Battlefield?",
+            "yes": {
+              "question": "Is the character from the Bad Company series?"
+            },
+            "no": {
+              "question": "Is the character from Medal of Honor?",
+              "yes": {
+                "question": "Is the character Jimmy Patterson?"
+              },
+              "no": {
+                "question": "Is the character from Battlefield 1?",
+                "yes": {
+                  "question": "Is the character from a single-player campaign?"
+                },
+                "no": {
+                  "question": "Is the character from Battlefield 5?"
+                }
+              }
+            }
+          }
+        }
+      },
+      "no": {
+        "question": "Is the character from Crash Bandicoot?"
+      }
+    },
+    "no": {
+      "question": "Is the character female?",
+      "yes": {
+        "question": "Is the character from a role-playing game?",
+        "yes": {
+          "question": "Is the character from the Final Fantasy series?",
+          "yes": {
+            "question": "Is the character Cloud Strife?"
+          },
+          "no": {
+            "question": "Is the character from the Dragon Age series?",
+            "yes": {
+              "question": "Is the character Morrigan?"
+            },
+            "no": {
+              "question": "Is the character from the Mass Effect series?",
+              "yes": {
+                "question": "Is the character Commander Shepard?"
+              },
+              "no": {
+                "question": "Is the character from The Witcher series?",
+                "yes": {
+                  "question": "Is the character Geralt of Rivia?"
+                },
+                "no": {
+                  "question": "Is the character from Skyrim?"
+                }
+              }
+            }
+          }
+        },
+        "no": {
+          "question": "Is the character from a platformer game?",
+          "yes": {
+            "question": "Is the character from the Super Mario series?",
+            "yes": {
+              "question": "Is the character Mario?"
+            },
+            "no": {
+              "question": "Is the character from the Sonic the Hedgehog series?",
+              "yes": {
+                "question": "Is the character Sonic?"
+              },
+              "no": {
+                "question": "Is the character from the Crash Bandicoot series?"
+              }
+            }
+          },
+          "no": {
+            "question": "Is the character from an adventure game?",
+            "yes": {
+              "question": "Is the character from The Legend of Zelda series?",
+              "yes": {
+                "question": "Is the character Link?"
+              },
+              "no": {
+                "question": "Is the character from the Uncharted series?"
+              }
+            },
+            "no": {
+              "question": "Is the character from a racing game?",
+              "yes": {
+                "question": "Is the character from the Need for Speed series?"
+              },
+              "no": {
+                "question": "Is the character from a sports game?"
+              }
+            }
+          }
+        }
+      },
+      "no": {
+        "question": "Is the character a non-human being?",
+        "yes": {
+          "question": "Is the character from the Pokémon series?"
+        },
+        "no": {
+          "question": "Is the character from an indie game?"
+        }
+      }
+    }
+  }
+}
